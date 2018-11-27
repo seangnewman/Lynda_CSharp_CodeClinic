@@ -1,4 +1,5 @@
-# Lynda_CSharp_CodeClinic
+# CSharp Code Clinic presented by Lynda.com
+## Course instuctor : Anton Delsink
 Code Clinic Series Provided by Lynda.
 
 Reviewed six C# projects, 
@@ -8,3 +9,5 @@ Reviewed six C# projects,
 4. Accessing the mouse (and other peripherals)
 5. A really cool facial recognition challenge
 6. Creating a real time dashboard
+
+
